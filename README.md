@@ -20,4 +20,4 @@ Terdapat 4 kelas dan satu main. Keempat kelas tersebut adalah:
 
 ## VIDEO PROGRAM
 
-https://user-images.githubusercontent.com/100985868/227790835-cf9d6806-3793-40f9-baaf-f4e0ebe13b8c.mp4
+Uploading video_preview.mp4…
