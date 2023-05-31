@@ -1,6 +1,6 @@
 # LP9DPBO2023C1
 
-Saya Zahra Fitria Maharani NIM 2102545 mengerjakan soal LATIHAN9 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Zahra Fitria Maharani NIM 2102545 mengerjakan soal LATIHAN 9 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## ALUR PROGRAM
 
