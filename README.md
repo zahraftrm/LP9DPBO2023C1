@@ -20,4 +20,4 @@ Terdapat 4 kelas dan satu main. Keempat kelas tersebut adalah:
 
 ## VIDEO PROGRAM
 
-Uploading video_preview.mp4…
+https://github.com/zahraftrm/LP9DPBO2023C1/assets/100985868/78f0883d-caa4-4fd9-9398-ab8d678e6315
